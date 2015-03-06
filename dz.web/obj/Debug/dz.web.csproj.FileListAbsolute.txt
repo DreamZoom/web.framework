@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\GitHub\dz.web1\dz.web\bin\Debug\dz.web.dll
+C:\Users\Administrator\Documents\GitHub\dz.web1\dz.web\bin\Debug\dz.web.pdb
+C:\Users\Administrator\Documents\GitHub\dz.web1\dz.web\obj\Debug\dz.web.dll
+C:\Users\Administrator\Documents\GitHub\dz.web1\dz.web\obj\Debug\dz.web.pdb
+C:\Users\Administrator\Documents\GitHub\dz.web1\dz.web\obj\Debug\dz.web.csprojResolveAssemblyReference.cache

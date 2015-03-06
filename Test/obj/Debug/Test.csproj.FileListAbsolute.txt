@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\GitHub\dz.web1\Test\bin\Debug\Test.exe.config
+C:\Users\Administrator\Documents\GitHub\dz.web1\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Documents\GitHub\dz.web1\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Documents\GitHub\dz.web1\Test\bin\Debug\dz.web.dll
+C:\Users\Administrator\Documents\GitHub\dz.web1\Test\bin\Debug\dz.web.pdb
+C:\Users\Administrator\Documents\GitHub\dz.web1\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\dz.web1\Test\obj\Debug\Test.exe
+C:\Users\Administrator\Documents\GitHub\dz.web1\Test\obj\Debug\Test.pdb
